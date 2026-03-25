@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
+<head>
+<title>Debug Test</title></head>
 <body>
 <h1 id="title">hello<h1>
-<button onclick="runTest()">Run test</button>
-<script>function runTest(){}</script>
+<button onclick="changeText()">click me</button>
+<script>function changeText(){document.getElementbyid("title").innertext="youclicked!";}
+</script>
