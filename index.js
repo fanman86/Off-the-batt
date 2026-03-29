@@ -1,3 +1,3 @@
 
 
-document.getElementById("title").innerText="youclicked!";}
+document.getElementById("title").innerText="youclicked!"
