@@ -1,8 +1,12 @@
 html{scroll-behavior: smooth;}
 #home{
       font-family:Arial, Helvetica, sans-serif;
-      font-size:15px;
       text-align:center;
       justify-self:center;
+      }
+#home{
+      padding-top:120;
+      padding: bottom 50px;
+      font-size:18px;
+      max-width:500px;
      }
-#home{padding-bottom:120;}
