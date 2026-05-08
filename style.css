@@ -1,14 +1,4 @@
 
-#home{
-      font-family:Arial, Helvetica, sans-serif;
-      text-align:center;
-      justify-self:center;
-      }
-#home{
-      padding-top:120;
-      padding: bottom 50px;
-      font-size:18px;
-     }
  body{text-Align:center;}
  h1{
     background-Color:deepskyBlue; 
@@ -39,7 +29,7 @@
                               background-color:darkgray;
                               color:white;
                              }
-             header{
+             header h1{
                      text-align:centered;
                    }
              header h1{
@@ -62,8 +52,9 @@
              #home p{
                      padding-top:120px;
                      padding-bottom:50px;
-                     font-size:18px;
-                     max-width:none;}
+                     font-size:25px;
+                     max-width:none;
+                    }
 
              .btn{
                   margin-top:20px;
