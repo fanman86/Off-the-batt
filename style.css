@@ -68,12 +68,17 @@
              .btn:hover{
                         background-color:#e0f2fe;
                        }
-              .nav{
+              nav{
                    margin-top:20px;
                    padding:12px 24px;
                    background-color:#0f172a;
-                   color:white
-                  }
+                 }
+              nav a{
+                    color:cornsilk;
+                   font-weight:bold;
+                   font-style:normal;
+                   font-size:20px;
+                   }
                     
 
 
