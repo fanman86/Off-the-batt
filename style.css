@@ -20,15 +20,15 @@
                              }
              #home{
                    min-height:70vh;
-                   background-color:linear-gradient(to right,#0ea5e9,0284c7);
-                   color:white;
+                   background-color:linear-gradient(to right,gray);
+                   color:whitesmoke;
                    margin-bottom:70px;
                   }
              #home h1{
                       font-size:40px;
                       margin-bottom:0;
                       padding:20px 15px;
-                      background-color:cyan;
+                      background-color:#0ea5e9;
                       color:aliceblue;
                       font-style: oblique;
                      }
