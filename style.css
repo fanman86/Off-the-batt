@@ -19,10 +19,9 @@
                               color:white;
                              }
              #home{
-                   min-height:70vh;
+                   font-family:Arial, Helvetica, sans-serif;
                    background-color:linear-gradient(to right,gray);
                    color:whitesmoke;
-                   margin-bottom:70px;
                   }
              #home h1{
                       font-size:40px;
@@ -33,11 +32,11 @@
                       font-style: oblique;
                      }
                   
-             #home p{
-                     padding-top:120px;
-                     padding-bottom:50px;
-                     font-size:25px;
+             #home {
+                     min-height:100vh;
+                     font-size:45px;
                      max-width:none;
+                     margin-bottom:70px;
                     }
 
              .btn{
