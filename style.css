@@ -1,26 +1,15 @@
-
- body{text-Align:center;}
- h1{
-    background-Color:deepskyBlue; 
-    font-Family: century-Gothic,  Helvetica,  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-Weight:bold;
-   } 
- p{font-Family:Haettenschweiler, 'Arial Narrow Bold', sans-serif ;}
- h2{color:darkblue}
-
 /*most of this information is usually subject to change seeing as to how coding is a first for me and is hghly  experimental*/
-              
-              section{
-                      min-height:100vh;
-                      font-size:15px;
-                     }
-              section{
-                      text-decoration:none;
-                      text-align:center;
-                      justify-content:center;
-                      align-items:center;
-                      flex-direction:column;
-                     }
+         section{
+                 min-height:100vh;
+                font-size:15px;
+                }
+         section{
+                 text-decoration:none;
+                 text-align:center;
+                 justify-content:center;
+                 align-items:center;
+                flex-direction:column;
+                }
                .section-dark{
                              background-color:#0f172a;
                              color:white;
@@ -29,15 +18,6 @@
                               background-color:darkgray;
                               color:white;
                              }
-             header h1{
-                     text-align:centered;
-                   }
-             header h1{
-                       margin-top:15px;
-                       margin-bottom:15px;
-                       font-size:100px;
-                       padding: 40px 20px;
-                      }
              #home{
                    min-height:70vh;
                    background-color:linear-gradient(to right,#0ea5e9,0284c7);
@@ -47,6 +27,10 @@
              #home h1{
                       font-size:40px;
                       margin-bottom:0;
+                      padding:20px 15px;
+                      background-color:cyan;
+                      color:aliceblue;
+                      font-style: oblique;
                      }
                   
              #home p{
