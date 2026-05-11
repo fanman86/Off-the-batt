@@ -33,6 +33,7 @@
                      }
                   
              #home {
+                     background-color:linear gradient (to bottom grey,gray,gainsboro,whitesmoke);
                      min-height:100vh;
                      font-size:45px;
                      max-width:none;
