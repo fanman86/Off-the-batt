@@ -4,6 +4,7 @@
                 font-size:15px;
                 }
          section{
+                 display: flex;
                  text-decoration:none;
                  text-align:center;
                  justify-content:center;
@@ -18,14 +19,16 @@
                               background-color:grey;
                               color:white;
                              }
-             #home{
-                   font-family:Arial, Helvetica, sans-serif;
-                   background-color:linear-gradient(to bottom,grey,gray,gainsboro,whitesmoke);
-                   color:whitesmoke;
-                   font-style:oblique;
-                  }
+               #home{
+                   
+                      font-family:Arial, Helvetica, sans-serif;
+                      background:linear-gradient(to bottom,grey,gray,gainsboro,whitesmoke);
+                      color:whitesmoke;
+                      font-style:oblique;
+                    }
              #home h1{
-                      font-size:40px;
+                       
+                      font-size:70px;
                       margin-bottom:0;
                       padding:20px 15px;
                       background-color:#0ea5e9;
