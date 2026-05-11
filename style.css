@@ -20,7 +20,7 @@
                              }
              #home{
                    font-family:Arial, Helvetica, sans-serif;
-                   background-color:linear-gradient(to right,gray);
+                   background-color:linear-gradient(to right,grey,gray,gainsboro,whitesmoke);
                    color:whitesmoke;
                   }
              #home h1{
@@ -33,7 +33,7 @@
                      }
                   
              #home {
-                     background-color:linear gradient (to bottom grey,gray,gainsboro,whitesmoke);
+        
                      min-height:100vh;
                      font-size:45px;
                      max-width:none;
