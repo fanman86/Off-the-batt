@@ -11,11 +11,6 @@
                  align-items:center;
                 flex-direction:column;
                 }
-             h1{
-                background-color:#0ea5e9;
-                font-size:70px;
-                font-weight:bold;
-               }
                .section-dark{
                              background-color:#0f172a;
                              color:white;
