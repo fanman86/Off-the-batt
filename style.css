@@ -53,19 +53,17 @@
                         background-color:#e0f2fe;
                        }
               nav{ 
+                   background-color:#0f172a;
+                   padding:12px 24px;
                    display:flex;
                    justify-content:center;
-                   align-items:center;
-                   flex-direction:column;
-                   margin-top:20px;
-                   padding:20px 12px;
-                   background-color:#0f172a;
+                   gap:20px;
                  }
               nav a{
                     color:cornsilk;
-                   font-weight:bold;
+                   font-weight:500;
                    font-style:normal;
-                   font-size:55;
+                   font-size:16px;
                    }
                     
 
