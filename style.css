@@ -26,7 +26,8 @@
                       color:#0f172a;
                       font-style:oblique;
                     }
-             #home h1{
+             #home h1{ 
+                      padding-top:0;
                       justify-content: center;
                       align-items: center;
                       display: flex;
