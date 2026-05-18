@@ -1,6 +1,7 @@
-function greetUser(){
+function greatUser(){
     let User=
-document.getElementById("EnterName").value;
-document.getElementById("message").textContent
-="Hi there"+ User;
+document.getElementById=("EnterName").value;
+document.getElementById=("message").contenttext
+"Hi there"+User;
+
 }
