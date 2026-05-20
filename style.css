@@ -54,12 +54,13 @@
                        }
               nav{ 
                    background-color:#0f172a;
-                   padding:12px 24px;
+                   padding:24px 12px;
                    display:flex;
                    justify-content:center;
+                   text-align:center;
                    gap:20px;
                  }
-              nav a{
+              nav {
                     color:cornsilk;
                    font-weight:500;
                    font-style:normal;
