@@ -52,17 +52,17 @@
              .btn:hover{
                         background-color:#e0f2fe;
                        }
-              #nav{ 
+              nav{ 
                    background-color:#0f172a;
-                   color:cornsilk;
+                   color: white;
                    display:flex;
                    justify-content:center;
                    text-align:center;
                  }
-              #nav{ 
+              nav{ 
                    padding:24px 12px;
                    font-weight:500px;
-                   font-size:16px;
+                   font-size:26px;
                    gap:20px;
                  }
                     
