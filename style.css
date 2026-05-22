@@ -58,15 +58,16 @@
                    display:flex;
                    justify-content:center;
                    text-align:center;
+                   font-weight:bold;
+                   
                  }
          #navbar{ 
                    border-radius:8px;
                    margin:15px;
                    padding:24px 12px;
-                   font-weight:bold;
                    font-size:26px;
-                   gap:50px;
-                  }
+                   gap:50;
+                }
          a:visited{
                    color:white;
                   } 
