@@ -52,14 +52,14 @@
              .btn:hover{
                         background-color:#e0f2fe;
                        }
-                 a{ 
+     nav a:visited{ 
                    background-color:darkblue;
                    color:white;
                    display:flex;
                    justify-content:center;
                    text-align:center;
                    }
-                 a{ 
+               nav{ 
                    padding:24px 12px;
                    font-weight:500px;
                    font-size:26px;
