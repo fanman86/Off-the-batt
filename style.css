@@ -59,8 +59,8 @@
                    justify-content:center;
                    text-align:center;
                    font-weight:bold;
-                   
-                 }
+                   text-decoration:none;
+                }
          #navbar{ 
                    border-radius:8px;
                    margin:15px;
