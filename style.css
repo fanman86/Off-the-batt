@@ -58,10 +58,11 @@
                    display:flex;
                    justify-content:center;
                    text-align:center;
+                   
                    }
-               nav{ 
+         nav:hover{
                    padding:24px 12px;
-                   font-weight:500px;
+                   font-weight:bold;
                    font-size:26px;
                    gap:20px;
                   }
