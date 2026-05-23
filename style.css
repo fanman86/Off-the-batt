@@ -52,25 +52,25 @@
              .btn:hover{
                         background-color:#e0f2fe;
                        }
-          #navbar a{
+          #navbar {
                    background-color:purple;
-                   color:white;
                    display:flex;
                    justify-content:center;
                    text-align:center;
-                   font-weight:bold;
-                   text-decoration:none;
-                    }
+                  }
         #navbar a{ 
+                   text-decoration:none;
+                   font-weight:bold;
+                   color:white;
                    border-radius:8px;
                    margin:20px;
                    padding:24px 12px;
                    font-size:26px;
                    gap:50px;
                  }
-         a:visited{
-                   color:white;
-              
+ #navbar a:visited{
+                   background-color:palegoldenrod;
+                   color:purple;
                   } 
            
 
