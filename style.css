@@ -53,6 +53,7 @@
                         background-color:#e0f2fe;
                        }
           #navbar {
+                   display:flex;
                    background-color:purple;
                    justify-content:center;
                    text-align:center;
@@ -61,7 +62,6 @@
                   }
         #navbar a{ 
                    color:white;
-                   display:flex;
                    text-decoration:none;
                    font-weight:bold;
                    margin:20px;
@@ -71,6 +71,10 @@
  #navbar a:visited{
                    color:white;
                   } 
+ #navbar a:hover{
+                 background-color:palegoldenrod;
+                 color:purple;
+                }
            
 
 
