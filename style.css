@@ -53,17 +53,17 @@
                         background-color:#e0f2fe;
                        }
           #navbar {
+                   color:white;
                    background-color:purple;
                    justify-content:center;
                    text-align:center;
                    border-radius:8px;
-                   padding:24px 12px;
+                   padding:12px 10px;
                   }
         #navbar a{ 
                    display:flex;
                    text-decoration:none;
                    font-weight:bold;
-                   color:white;
                    margin:20px;
                    font-size:26px;
                    gap:50px;
