@@ -68,6 +68,7 @@
                    margin:50px;
                    font-size:26px;
                    gap:50px;
+                   flex-wrap:wrap;
                  }
  #navbar a:visited{
                    color:white;
