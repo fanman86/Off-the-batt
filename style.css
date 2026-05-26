@@ -58,7 +58,9 @@
                    justify-content:center;
                    text-align:center;
                    border-radius:8px;
-                   padding:12px 10px;
+                   padding:18px 20px;
+                   gap: 35px;
+                   flex-wrap:35px;
                   }
         #navbar a{ 
                    color:white;
@@ -66,8 +68,6 @@
                    font-weight:bold;
                    margin:50px;
                    font-size:26px;
-                   gap:50px;
-                   flex-wrap:wrap;
                  }
  #navbar a:visited{
                    color:white;
