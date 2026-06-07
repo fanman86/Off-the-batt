@@ -54,27 +54,26 @@
                        }
           #navbar {
                    display:flex;
-                   background-color:purple;
                    justify-content:center;
                    text-align:center;
                    border-radius:8px;
                    padding:18px 20px;
                    gap: 35px;
-                   flex-wrap:35px;
+                   flex-wrap:wrap;
                   }
         #navbar a{ 
-                   color:white;
+                   background-color:blueviolet;
                    text-decoration:none;
                    font-weight:bold;
                    margin:50px;
                    font-size:26px;
                  }
  #navbar a:visited{
-                   color:white;
+                   color:palegoldenrod;
+                   background-color:purple;
                   } 
  #navbar a:hover{
-                 background-color:palegoldenrod;
-                 color:purple;
+                 background-color:blueviolet;
                 }
            
 
