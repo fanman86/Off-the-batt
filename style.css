@@ -1,4 +1,4 @@
-/*most of this information is usually subject to change seeing as to how coding is a first for me and is hghly  experimental*/
+
          section{
                  min-height:100vh;
                 font-size:15px;
@@ -27,7 +27,7 @@
                       font-style:oblique;
                     }
              #home h1{ 
-                      padding-top:0;
+                      padding-top:12px 26px;
                       justify-content: center;
                       align-items: center;
                       display: flex;
@@ -37,7 +37,6 @@
               #home{ 
                      min-height:100vh;
                      font-size:45px;
-                     margin-bottom:70px;
                    }
 
              .btn{
@@ -65,9 +64,12 @@
                    background-color:blueviolet;
                    text-decoration:none;
                    font-weight:bold;
-                   margin:50px;
-                   font-size:26px;
+                   font-size:18px;
+                   
                  }
+                 
+
+                 
  #navbar a:visited{
                    color:palegoldenrod;
                    background-color:purple;
