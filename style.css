@@ -56,7 +56,6 @@
                    justify-content:center;
                    text-align:center;
                    border-radius:8px;
-                   padding:18px 30px;
                    gap: 35px;
                    flex-wrap:wrap;
                   }
@@ -65,7 +64,7 @@
                    text-decoration:none;
                    font-weight:bold;
                    font-size:18px;
-                   
+                   padding:18px 30px;
                  }
                  
 
